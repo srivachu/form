@@ -1,0 +1,159 @@
+button{
+padding: 20px;
+margin-left: 2%;
+font-size: 140%;
+float: right;
+
+}
+
+.cd{
+    margin-top: -9.5%;
+}
+
+#label{
+    size: 20px;
+}
+
+#you{
+    font-size: 400%;
+    margin-left: 20%;
+    
+}
+.a{
+    height: 150px;
+    width:100%;
+    background-color: rgba(248, 1, 1, 0.555);
+    
+}
+
+#one{
+    margin-left: 45%;
+    font-size: 100px;
+margin-top: -3.55%;
+font-family: 'Open Sans';
+
+}
+
+.op{
+ margin-right: 50%;
+ padding-top: 3%;
+}
+
+
+.none{
+    margin-left: 70%;
+}
+
+.two{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .three{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .four{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .five{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .six{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+.seven{
+    margin-left: 70%;
+}
+
+.eight{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .nine{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .ten{
+    margin-left: 70%;
+    font-size: 35px}
+
+   .eleven{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .twelve{
+    margin-left: 70%;
+   }
+
+   .thirteen{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .fourteen{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+  
+   .fifteen{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   .four one{
+    margin-left: 70%;
+    font-size: 35px;
+   }
+
+   #h1{
+    color: crimson;
+    
+   }
+
+.body{
+    background: url(wed.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: fit-content;
+  
+}
+
+.aa{
+    margin-left: -170%;
+}
+
+.bb{
+    margin-top: -50%;
+}
+
+body{
+background: url(wed2.jpg);
+background-size: cover;
+
+}
+footer{
+    background-color: rgba(231, 217, 10, 0.89);
+    height: 200px;
+    
+}
+.tt{
+    margin-top: -10%;
+    margin-left: 60%;
+    
+}
+
+.hh{
+    margin-top: -8.65%;
+    margin-left: 80%;
+}
